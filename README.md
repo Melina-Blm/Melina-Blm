@@ -1,16 +1,30 @@
-<h2>Hi there, I'm Melina ! 👋</h2>
+<h2>Hi there, I'm Melina ! 👋  </h2>
 
-I'm a student currently learning how to code.
-
-<hr>
-<h3> Languages and Tools</h3>
-
-
-
-
+I'm a student who's passionate about web technology. <br>
+Currently working on @Vuejs, I'm also on a self-taught journey, studying and learning more about other languages. 
 
 <hr>
-<h3>Find me around the web : </h3>
+<h4> Languages and Tools 📚</h4>
+
+* HTML5, CSS3 and their frameworks ( Tailwind, Bootstrap..)
+* Javascript ( VueJS, ReactJS..)
+
+
+<div class="flex  ">
+
+<img src="https://user-images.githubusercontent.com/95023897/193556251-644186ee-6390-417c-adba-22b3ee18fe0b.png" width="48">
+<img src="https://user-images.githubusercontent.com/95023897/193557538-ea26bd19-a82a-4501-9c4f-1d15d4820be0.png" width ="48">
+<img src="https://user-images.githubusercontent.com/95023897/193557743-6a4623ec-43dc-4aa6-baa2-09135167688a.png" width ="48">
+<img src="https://user-images.githubusercontent.com/95023897/193557904-442c6ba3-4d4d-40b2-99dd-15a5206cd6d9.png" width ="48">
+<img src="https://user-images.githubusercontent.com/95023897/193555623-5416f60f-6e2f-4bf2-9d65-6f1522b45660.png" width="48">
+</div>
+
+
+<hr>
+<h4>More about me  🙋🏻</h4>
+
+* Based in France 🌎 
+* Contact info : melina.bouchelleghem@gmail.com
 <!--
 **Melina-Blm/Melina-Blm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
