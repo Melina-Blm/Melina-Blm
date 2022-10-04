@@ -24,7 +24,8 @@ Currently working on @Vuejs, I'm also on a self-taught journey, studying and lea
 <h4>More about me  🙋🏻</h4>
 
 * Based in France 🌎 
-* Contact info : melina.bouchelleghem@gmail.com
+* Contact info : melina.bouchelleghem@gmail.com<br>
+* [LinkedIn](https://www.linkedin.com/in/m%C3%A9lina-b-67639a224/)
 <!--
 **Melina-Blm/Melina-Blm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
