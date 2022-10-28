@@ -15,7 +15,6 @@ Currently working on @Vuejs, I'm also on a self-taught journey, studying and lea
 <img src="https://user-images.githubusercontent.com/95023897/193556251-644186ee-6390-417c-adba-22b3ee18fe0b.png" width="48">
 <img src="https://user-images.githubusercontent.com/95023897/193557538-ea26bd19-a82a-4501-9c4f-1d15d4820be0.png" width ="48">
 <img src="https://user-images.githubusercontent.com/95023897/193557743-6a4623ec-43dc-4aa6-baa2-09135167688a.png" width ="48">
-<img src="https://user-images.githubusercontent.com/95023897/193557904-442c6ba3-4d4d-40b2-99dd-15a5206cd6d9.png" width ="48">
 <img src="https://user-images.githubusercontent.com/95023897/193555623-5416f60f-6e2f-4bf2-9d65-6f1522b45660.png" width="48">
 </div>
 
