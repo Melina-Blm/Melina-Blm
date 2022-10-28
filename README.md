@@ -7,7 +7,7 @@ Currently working on @Vuejs, I'm also on a self-taught journey, studying and lea
 <h4> Languages and Tools 📚</h4>
 
 * HTML5, CSS3 and their frameworks ( Tailwind, Bootstrap..)
-* Javascript ( VueJS, ReactJS..)
+* Javascript ( VueJS)
 
 
 <div class="flex  ">
